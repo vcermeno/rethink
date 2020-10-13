@@ -29,7 +29,7 @@
  > $ npm start <br>
 
  In another terminal:
- $ redis-server
+ > $ redis-server
 
  1. Go to localhost:3000
  2. Make a POST request to (localhost:3000/url) and send your url in the request body (i.e. { "url": "http://google.com" })
