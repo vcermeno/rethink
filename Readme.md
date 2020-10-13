@@ -1,7 +1,7 @@
 # Rethink - Search Filter and URL Shortner
 
 ## To clone Repo:
-$ git clone --recursive https://github.com/vcermeno/rethink.git
+> $ git clone --recursive https://github.com/vcermeno/rethink.git
 
 ## Table of Contents:
 * [Search Filter](#search-filter)
@@ -10,9 +10,9 @@ $ git clone --recursive https://github.com/vcermeno/rethink.git
 ## Search filter
 ![Image of Search Filter](./assets/search.png)
  ### Setup
- $ cd ./search_box
- $ yarn install
- $ yarn start
+ > $ cd ./search_box <br>
+ > $ yarn install <br>
+ > $ yarn start <br>
 
  ## How to Use:
  1. Go to localhost:3000
@@ -24,9 +24,9 @@ $ git clone --recursive https://github.com/vcermeno/rethink.git
      - Due to the size of the page, I only show the top 4 results
 ## Url Shortener
  ### Setup
- $ cd ./url_shortener
- $ npm install
- $ npm start
+ > $ cd ./url_shortener <br>
+ > $ npm install <br>
+ > $ npm start <br>
 
  In another terminal:
  $ redis-server
