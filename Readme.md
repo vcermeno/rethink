@@ -1,5 +1,8 @@
 # Rethink - Search Filter and URL Shortner
 
+## To clone Repo:
+$ git clone --recursive https://github.com/vcermeno/rethink.git
+
 ## Table of Contents:
 * [Search Filter](#search-filter)
 * [URL Shortener](#url-shortener)
