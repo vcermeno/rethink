@@ -1,0 +1,20 @@
+{
+  "name": "url_shortnener",
+  "version": "1.0.0",
+  "description": "Given any URL, shorten it and return a globally unique URL back to the user.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "redis": "^3.0.2",
+    "shortid": "^2.2.15"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  }
+}
